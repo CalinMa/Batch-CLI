@@ -6,10 +6,10 @@ color 1c
 title MyFirstBatch
 
 :: print a message
-echo Your browser will open at www.google.com
+echo Your browser will open at www.linkedin.com, and if you are here, hit connect!
 
 :: use "pause", so that the program stops and asks you to press any key
 pause
-start http://www.google.com
+start https://www.linkedin.com/in/calin-marincas-950080180/
 
 
