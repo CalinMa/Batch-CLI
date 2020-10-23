@@ -1,3 +1,4 @@
+:: Remember to copy the file speakingbatch in the same folder in order for this file to work
 @echo off
 :: change the colors
 color 1c
